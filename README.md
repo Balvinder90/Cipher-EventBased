@@ -1,4 +1,4 @@
-# Cipher-NonEventBased
+# Cipher-EventBased
 A basic Caesar Cipher created using vanilla HTML, CSS and JavaScript.
 
 1. Select either Cipher or Dicipher
